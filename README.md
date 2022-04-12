@@ -34,3 +34,6 @@ along with demographics. Now, The task is to predict whether a potential promote
 checkpoint will be promoted or not after the evaluation process.
 
 Dataset URL: https://bit.ly/2ODZvLCHRDataset
+
+### Acknowledgements
+The data set has been scraped from a contest held by https://www.analyticsvidhya.com/
