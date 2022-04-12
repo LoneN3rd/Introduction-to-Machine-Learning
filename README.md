@@ -33,7 +33,11 @@ They have provided multiple attributes around employees’ past and current perf
 along with demographics. Now, The task is to predict whether a potential promotee at a
 checkpoint will be promoted or not after the evaluation process.
 
-Dataset URL: https://bit.ly/2ODZvLCHRDataset
+### Dataset URL 
+https://bit.ly/2ODZvLCHRDataset
 
 ### Acknowledgements
 The data set has been scraped from a contest held by https://www.analyticsvidhya.com/
+
+### Project Source 
+https://bit.ly/2CFzoRX
